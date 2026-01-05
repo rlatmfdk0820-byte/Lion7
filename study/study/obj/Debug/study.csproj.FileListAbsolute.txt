@@ -1,0 +1,8 @@
+D:\lion7\study\study\bin\Debug\study.exe.config
+D:\lion7\study\study\bin\Debug\study.exe
+D:\lion7\study\study\bin\Debug\study.pdb
+D:\lion7\study\study\obj\Debug\study.csproj.AssemblyReference.cache
+D:\lion7\study\study\obj\Debug\study.csproj.CoreCompileInputs.cache
+D:\lion7\study\study\obj\Debug\study.exe
+D:\lion7\study\study\obj\Debug\study.pdb
+D:\lion7\study\study\obj\Debug\study.exe.config

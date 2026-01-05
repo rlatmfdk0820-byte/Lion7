@@ -1,0 +1,8 @@
+D:\lion7\a\a\bin\Debug\a.exe.config
+D:\lion7\a\a\bin\Debug\a.exe
+D:\lion7\a\a\bin\Debug\a.pdb
+D:\lion7\a\a\obj\Debug\a.csproj.AssemblyReference.cache
+D:\lion7\a\a\obj\Debug\a.csproj.CoreCompileInputs.cache
+D:\lion7\a\a\obj\Debug\a.exe
+D:\lion7\a\a\obj\Debug\a.pdb
+D:\lion7\a\a\obj\Debug\a.exe.config
